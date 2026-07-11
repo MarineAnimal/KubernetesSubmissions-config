@@ -15,7 +15,7 @@ images:
   newTag: 931b20c32229ebde2c6e48be4aeb36fb838a4ecb
 - name: PROJECT/IMAGE
   newName: anyasnif/todo-app
-  newTag: 931b20c32229ebde2c6e48be4aeb36fb838a4ecb
+  newTag: 5310964ee0865a24cfa76947b65dff8e26bbf297
 - name: PROJECT/LOGOUTPUT
   newName: anyasnif/log-output
   newTag: 931b20c32229ebde2c6e48be4aeb36fb838a4ecb
