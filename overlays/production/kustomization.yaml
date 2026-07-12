@@ -11,10 +11,10 @@ resources:
 images:
 - name: PROJECT/BROADCASTER
   newName: anyasnif/broadcaster
-  newTag: a70253336696b5cd0d457b8f269b20048b681e24
+  newTag: 5310964ee0865a24cfa76947b65dff8e26bbf297
 - name: PROJECT/IMAGE
   newName: anyasnif/todo-app
-  newTag: a70253336696b5cd0d457b8f269b20048b681e24
+  newTag: 5310964ee0865a24cfa76947b65dff8e26bbf297
 - name: PROJECT/LOGOUTPUT
   newName: anyasnif/log-output
-  newTag: a70253336696b5cd0d457b8f269b20048b681e24
+  newTag: 5310964ee0865a24cfa76947b65dff8e26bbf297
